@@ -11,7 +11,7 @@
     ],
     "include": [
         "${sourceDir}/GeneralCMakePresets/Platforms/BaseDefaults.json",
-        "${sourceDir}/GeneralCMakePresetsOverrides/Platforms/Base.json"
+        "${sourceDir}/CMakePresets_GeneralOverrides/Platforms/Base.json"
     ],
     "configurePresets": [
         {

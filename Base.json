@@ -12,7 +12,7 @@
     ],
     "include": [
         "${sourceDir}/GeneralCMakePresets/BaseDefaults.json",
-        "${sourceDir}/GeneralCMakePresetsOverrides/Base.json"
+        "${sourceDir}/CMakePresets_GeneralOverrides/Base.json"
     ],
     "configurePresets": [
         {
