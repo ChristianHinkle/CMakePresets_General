@@ -11,7 +11,7 @@
         "Note: We make sure that the \"defaults\" preset has less priority than the \"overrides\" preset in our \"inherits\" lists."
     ],
     "include": [
-        "${sourceDir}/GeneralCMakePresets/BaseDefaults.json",
+        "${sourceDir}/CMakePresets_General/BaseDefaults.json",
         "${sourceDir}/CMakePresets_GeneralOverrides/Base.json"
     ],
     "configurePresets": [

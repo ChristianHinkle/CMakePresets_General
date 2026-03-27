@@ -10,7 +10,7 @@
         "Note: We abbreviate \"windows\" to \"win\" to help alleviate any filesystem pathname limit errors."
     ],
     "include": [
-        "${sourceDir}/GeneralCMakePresets/Platforms/BaseDefaults.json",
+        "${sourceDir}/CMakePresets_General/Platforms/BaseDefaults.json",
         "${sourceDir}/CMakePresets_GeneralOverrides/Platforms/Base.json"
     ],
     "configurePresets": [

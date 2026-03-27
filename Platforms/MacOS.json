@@ -9,9 +9,9 @@
         "Copyright (c) 2023-2025 Christian Hinkle, Brian Hinkle."
     ],
     "include": [
-        "${sourceDir}/GeneralCMakePresets/Base.json",
-        "${sourceDir}/GeneralCMakePresets/Platforms/Base.json",
-        "${sourceDir}/GeneralCMakePresets/Generators/Base.json"
+        "${sourceDir}/CMakePresets_General/Base.json",
+        "${sourceDir}/CMakePresets_General/Platforms/Base.json",
+        "${sourceDir}/CMakePresets_General/Generators/Base.json"
     ],
     "configurePresets": [
         {
